@@ -1,7 +1,7 @@
 {
   "cuentasBancarias": [
-    { "id": 1, "nombreBanco": "Bancolombia" },
-    { "id": 2, "nombreBanco": "Davivienda" },
-    { "id": 3, "nombreBanco": "Banco de Bogota" }
+    { "id": 1, "nombreBanco": "Bancolombia", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": 82934827348 },
+    { "id": 2, "nombreBanco": "Davivienda", "tipoCuenta": "Cuenta corriente", "numeroCuenta": 809128390183 },
+    { "id": 3, "nombreBanco": "Banco de Bogota", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": 09289182931 }
   ]
 }
