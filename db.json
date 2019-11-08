@@ -3,5 +3,8 @@
     { "id": 1, "nombreBanco": "Bancolombia", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": "081329812938" },
     { "id": 2, "nombreBanco": "Davivienda", "tipoCuenta": "Cuenta corriente", "numeroCuenta": "0191929292" },
     { "id": 3, "nombreBanco": "Banco de Bogota", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": "9285917393" }
+  ],
+  "taxisColombia": [
+    { "id": 1, "nombreBanco": "Bancolombia", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": "081329812938" }
   ]
 }
