@@ -1,0 +1,7 @@
+{
+  "cuentasBancarias": [
+    { "id": 1, "nombreBanco": "Bancolombia" },
+    { "id": 2, "nombreBanco": "Davivienda" },
+    { "id": 3, "nombreBanco": "Banco de Bogota" }
+  ]
+}
