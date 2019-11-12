@@ -6,6 +6,6 @@
     { "id": 4, "nombreBanco": "Banco de Medellín", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": "34234" }
   ],
   "taxisColombia": [
-    { "id": 1, "nombreBanco": "Bancolombia", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": "081329812938" }
+    { "id": 1, "nombreEmpresa": "Coopebombas", "estadoCupo": "Activo", "placoCarro": "DFR913" }
   ]
 }
