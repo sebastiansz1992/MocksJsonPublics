@@ -4,73 +4,117 @@
       { "accountLength": "string", "accountType": "string", "alphanumeric": "string", "bank": "string", "country": "string", "name": "string"}
     ]
   },
-  "consulta": {
-    "businessPartner": {
-      "accountType": "string",
-      "address": "string",
-      "city": "string",
-      "company": "string",
-      "country": "string",
-      "document": "string",
-      "documentType": "string",
-      "documentVerificationDigit": "string",
-      "email": "string",
-      "firstName": "string",
-      "lastName": "string",
-      "legalName": "string",
-      "mobile": "string",
-      "phone": "string",
-      "region": "string"
+   "consulta": {
+        "businessPartner": {
+            "accountType": "D",
+            "documentType": "13",
+            "document": "123",
+            "documentVerificationDigit": null,
+            "firstName": null,
+            "lastName": null,
+            "legalName": null,
+            "country": null,
+            "region": null,
+            "city": null,
+            "address": null,
+            "email": null,
+            "phone": null,
+            "mobile": null,
+            "company": null
+        },
+        "listAccounts": [
+            {
+                "country": "CO",
+                "bank": "01",
+                "account": "123456789",
+                "accountType": "02",
+                "pointer": "0009",
+                "collectAut": "",
+                "reference": "00",
+                "docTypeAccountHolder": "CC",
+                "docAccountHolder": "123",
+                "nameAccountHolder": "PRUEBA1",
+                "listProducts": [
+                    {
+                        "company": "1000",
+                        "reference2": "030",
+                        "reference1": "",
+                        "date": "2019-09-20",
+                        "time": "Thu Jan 01 08:31:36 COT 1970"
+                    }
+                ]
+            },
+            {
+                "country": "CO",
+                "bank": "07",
+                "account": "04057675884",
+                "accountType": "02",
+                "pointer": "0008",
+                "collectAut": "",
+                "reference": "00",
+                "docTypeAccountHolder": "C",
+                "docAccountHolder": "123",
+                "nameAccountHolder": "JUAN CARLOS PALACIO RAMIIREZ CQLII",
+                "listProducts": null
+            },
+            {
+                "country": "CO",
+                "bank": "07",
+                "account": "C222222",
+                "accountType": "01",
+                "pointer": "0005",
+                "collectAut": "",
+                "reference": "00",
+                "docTypeAccountHolder": "C",
+                "docAccountHolder": "123",
+                "nameAccountHolder": null,
+                "listProducts": null
+            },
+            {
+                "country": "CO",
+                "bank": "07",
+                "account": "34526745832",
+                "accountType": "02",
+                "pointer": "0004",
+                "collectAut": "X",
+                "reference": "00",
+                "docTypeAccountHolder": "JUAN",
+                "docAccountHolder": "",
+                "nameAccountHolder": null,
+                "listProducts": null
+            },
+            {
+                "country": "CO",
+                "bank": "07",
+                "account": "C52345678987",
+                "accountType": "01",
+                "pointer": "0002",
+                "collectAut": "",
+                "reference": "00",
+                "docTypeAccountHolder": "C",
+                "docAccountHolder": "123",
+                "nameAccountHolder": "HECTOR FABIO ATEHORTUA CUJAR",
+                "listProducts": null
+            }
+        ],
+        "listCreditCards": [
+            {
+                "country": "CO",
+                "bank": "P2P",
+                "account": "8458904970431111",
+                "accountType": "04",
+                "pointer": "0006",
+                "franchise": "VISA",
+                "lastDigits": "1111",
+                "validUntil": "122020",
+                "reference": "00",
+                "docTypeAccountHolder": "",
+                "docAccountHolder": "123",
+                "nameAccountHolder": null,
+                "listProducts": null
+            }
+        ]
     },
-    "listAccounts": [
-      {
-        "account": "string",
-        "accountType": "string",
-        "bank": "string",
-        "collectAut": "string",
-        "country": "string",
-        "docAccountHolder": "string",
-        "docTypeAccountHolder": "string",
-        "listProducts": [
-          {
-            "company": "string",
-            "date": "string",
-            "reference1": "string",
-            "reference2": "string",
-            "time": "string"
-          }
-        ],
-        "nameAccountHolder": "string",
-        "pointer": "string",
-        "reference": "string"
-      }
-    ],
-    "listCreditCards": [
-      {
-        "account": "string",
-        "accountType": "string",
-        "bank": "string",
-        "country": "string",
-        "docAccountHolder": "string",
-        "docTypeAccountHolder": "string",
-        "franchise": "string",
-        "lastDigits": "string",
-        "listProducts": [
-          {
-            "company": "string",
-            "date": "string",
-            "reference1": "string",
-            "reference2": "string",
-            "time": "string"
-          }
-        ],
-        "nameAccountHolder": "string",
-        "pointer": "string",
-        "reference": "string",
-        "validUntil": "string"
-      }
-    ]
-  },
   "franquicias": {
     "listFranchise": [
       {
