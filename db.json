@@ -9,14 +9,7 @@
     { "id": 1, "nombreEmpresa": "Coopebombas", "estadoCupo": "Activo", "placoCarro": "DFR913" }
   ],
   "listBank": [
-    {
-      "accountLength": "string",
-      "accountType": "string",
-      "alphanumeric": "string",
-      "bank": "string",
-      "country": "string",
-      "name": "string"
-    }
+    { "accountLength": "string", "accountType": "string", "alphanumeric": "string", "bank": "string", "country": "string", "name": "string"}
   ]
 }
 
