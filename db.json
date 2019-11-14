@@ -12,6 +12,73 @@
      "listBank": [
       { "accountLength": "string", "accountType": "string", "alphanumeric": "string", "bank": "string", "country": "string", "name": "string"}
     ]
+  },
+  "infoAccounts": {
+    "businessPartner": {
+      "accountType": "string",
+      "address": "string",
+      "city": "string",
+      "company": "string",
+      "country": "string",
+      "document": "string",
+      "documentType": "string",
+      "documentVerificationDigit": "string",
+      "email": "string",
+      "firstName": "string",
+      "lastName": "string",
+      "legalName": "string",
+      "mobile": "string",
+      "phone": "string",
+      "region": "string"
+    },
+    "listAccounts": [
+      {
+        "account": "string",
+        "accountType": "string",
+        "bank": "string",
+        "collectAut": "string",
+        "country": "string",
+        "docAccountHolder": "string",
+        "docTypeAccountHolder": "string",
+        "listProducts": [
+          {
+            "company": "string",
+            "date": "string",
+            "reference1": "string",
+            "reference2": "string",
+            "time": "string"
+          }
+        ],
+        "nameAccountHolder": "string",
+        "pointer": "string",
+        "reference": "string"
+      }
+    ],
+    "listCreditCards": [
+      {
+        "account": "string",
+        "accountType": "string",
+        "bank": "string",
+        "country": "string",
+        "docAccountHolder": "string",
+        "docTypeAccountHolder": "string",
+        "franchise": "string",
+        "lastDigits": "string",
+        "listProducts": [
+          {
+            "company": "string",
+            "date": "string",
+            "reference1": "string",
+            "reference2": "string",
+            "time": "string"
+          }
+        ],
+        "nameAccountHolder": "string",
+        "pointer": "string",
+        "reference": "string",
+        "validUntil": "string"
+      }
+    ]
   }
 }
 
