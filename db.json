@@ -1,13 +1,4 @@
 {
-  "cuentasBancarias": [
-    { "id": 1, "nombreBanco": "Bancolombia", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": "081329812938" },
-    { "id": 2, "nombreBanco": "Davivienda", "tipoCuenta": "Cuenta corriente", "numeroCuenta": "0191929292" },
-    { "id": 3, "nombreBanco": "Banco de Bogota", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": "9285917393" },
-    { "id": 4, "nombreBanco": "Banco de Medellín", "tipoCuenta": "Cuenta de Ahorros", "numeroCuenta": "34234" }
-  ],
-  "taxisColombia": [
-    { "id": 1, "nombreEmpresa": "Coopebombas", "estadoCupo": "Activo", "placoCarro": "DFR913" }
-  ],
   "infoBank": {
      "listBank": [
       { "accountLength": "string", "accountType": "string", "alphanumeric": "string", "bank": "string", "country": "string", "name": "string"}
@@ -77,6 +68,20 @@
         "pointer": "string",
         "reference": "string",
         "validUntil": "string"
+      }
+    ]
+  },
+  "infoFranchise": {
+    "listFranchise": [
+      {
+        "accountLength": "string",
+        "bines": [
+          {
+            "bin": "string"
+          }
+        ],
+        "franchise": "string",
+        "name": "string"
       }
     ]
   }
