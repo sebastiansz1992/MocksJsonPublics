@@ -84,6 +84,18 @@
         "name": "string"
       }
     ]
+  },
+  "response": {
+    "respuesta": [
+      {
+        "cdMensaje": "string",
+        "dsDato1": "string",
+        "dsDato2": "string",
+        "dsDato3": "string",
+        "dsDato4": "string",
+        "dsMensaje": "string"
+      }
+    ]
   }
 }
 
