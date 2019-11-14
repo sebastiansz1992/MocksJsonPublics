@@ -8,7 +8,7 @@
   "taxisColombia": [
     { "id": 1, "nombreEmpresa": "Coopebombas", "estadoCupo": "Activo", "placoCarro": "DFR913" }
   ],
-  {
+  [
     "infoBank": {
       "listBank": [
         {
@@ -21,6 +21,6 @@
         }
       ]
     }
-  }
+  ]
 }
 
