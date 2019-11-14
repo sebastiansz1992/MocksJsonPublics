@@ -1,10 +1,10 @@
 {
-  "infoBank": {
+  "bancos": {
      "listBank": [
       { "accountLength": "string", "accountType": "string", "alphanumeric": "string", "bank": "string", "country": "string", "name": "string"}
     ]
   },
-  "infoAccounts": {
+  "consulta": {
     "businessPartner": {
       "accountType": "string",
       "address": "string",
@@ -71,7 +71,7 @@
       }
     ]
   },
-  "infoFranchise": {
+  "franquicias": {
     "listFranchise": [
       {
         "accountLength": "string",
@@ -85,7 +85,7 @@
       }
     ]
   },
-  "response": {
+  "gestion": {
     "respuesta": [
       {
         "cdMensaje": "string",
