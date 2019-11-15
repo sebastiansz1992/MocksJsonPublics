@@ -1,7 +1,286 @@
 {
   "bancos": {
      "listBank": [
-      { "accountLength": "string", "accountType": "string", "alphanumeric": "string", "bank": "string", "country": "string", "name": "string"}
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "1021",
+            "name": "PRUEBA REASEGURO EXTRERIOR",
+            "accountLength": "010",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "01",
+            "name": "BANCO DE BOGOTÁ",
+            "accountLength": "009",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "19",
+            "name": "RED MULTIBANCA COLPATRIA",
+            "accountLength": "010",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1083",
+            "name": "Banco Aliado",
+            "accountLength": "012",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1106",
+            "name": "Credicorp Bank",
+            "accountLength": "010",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1151",
+            "name": "Global Bank",
+            "accountLength": "012",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1258",
+            "name": "Banco Universal",
+            "accountLength": "016",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1384",
+            "name": "Bac- Credomatic",
+            "accountLength": "009",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1397",
+            "name": "BCT",
+            "accountLength": "005",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1465",
+            "name": "Banco Citibank Panama",
+            "accountLength": "011",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1478",
+            "name": "MMG Bank",
+            "accountLength": "012",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1494",
+            "name": "ST Georges Bank",
+            "accountLength": "007",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1504",
+            "name": "Banco Azteca",
+            "accountLength": "010",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1517",
+            "name": "Banco Pichincha",
+            "accountLength": "010",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1562",
+            "name": "Banco Delta",
+            "accountLength": "017",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1575",
+            "name": "Banco Lafise de Panama",
+            "accountLength": "009",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1588",
+            "name": "Banesco",
+            "accountLength": "012",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1591",
+            "name": "Capital Bank",
+            "accountLength": "011",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1601",
+            "name": "Banco Panama",
+            "accountLength": "010",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1630",
+            "name": "Mercantil Bank",
+            "accountLength": "009",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1672",
+            "name": "Prival Bank",
+            "accountLength": "012",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "PA",
+            "bank": "1685",
+            "name": "Balboa Bank & Trust",
+            "accountLength": "011",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "13",
+            "name": "BBVA COLOMBIA",
+            "accountLength": "010",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "97",
+            "name": "Banco Visa - Recaudos Tarjetas",
+            "accountLength": "015",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "06",
+            "name": "BANCO ITAU CORPBANCA COLOMBIA",
+            "accountLength": "009",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "07",
+            "name": "BANCOLOMBIA",
+            "accountLength": "011",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "09",
+            "name": "CITIBANK COLOMBIA",
+            "accountLength": "010",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "02",
+            "name": "BANCO POPULAR",
+            "accountLength": "009",
+            "alphanumeric": "X"
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "12",
+            "name": "BANCO GNB SUDAMERIS COLOMBIA",
+            "accountLength": "012",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "13",
+            "name": "BBVA COLOMBIA",
+            "accountLength": "008",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "1021",
+            "name": "PRUEBA REASEGURO EXTRERIOR",
+            "accountLength": "013",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "23",
+            "name": "BANCO DE OCCIDENTE",
+            "accountLength": "009",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "32",
+            "name": "BANCO CAJA SOCIAL - BCSC",
+            "accountLength": "013",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "51",
+            "name": "BANCO DAVIVIENDA",
+            "accountLength": "012",
+            "alphanumeric": ""
+        },
+        {
+            "accountType": "D",
+            "country": "CO",
+            "bank": "52",
+            "name": "BANCO AV VILLAS",
+            "accountLength": "009",
+            "alphanumeric": ""
+        }
     ]
   },
    "consulta": {
